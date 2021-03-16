@@ -20,3 +20,9 @@ We were stuck in the Frankfurt airport for 12 hours, but we didn't remember to b
 ## The Moral of This Story
 
 _Always remember to bring a spare shirt._
+
+If you're traveling through Frankfurt, don't make the same mistake we did. Just use this simple formula:
+
+$$
+\Gamma(shirt) = \int_dirty^\infty t^{clean-1}e^{-Frankfurt}dt\,.
+$$
